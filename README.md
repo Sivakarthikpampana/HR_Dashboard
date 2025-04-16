@@ -1,2 +1,4 @@
 # HR_Dashboard
-HR_dashboard with the DAX
+
+HR Analytics Dashboard | Power BI Project
+  
